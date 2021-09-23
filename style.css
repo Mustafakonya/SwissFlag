@@ -1,0 +1,42 @@
+
+
+#main-container{
+    width: 200px;
+    height: 200px;
+    padding: 200px;
+    border: 1px solid red;
+    background-color: red;
+    margin: auto;
+    position: relative;
+
+    
+}
+
+section{
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    position: relative;
+    left: -50px;
+    background-color: white;
+    margin: 50px auto;
+}
+
+#alt{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 305px;
+    background-color: rgb(255, 255, 255);
+    margin: -54px -54px;
+}
+
+#ust{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 305px;
+    background-color: rgb(255, 255, 255);
+    margin: -250px -54px;
+}
+
